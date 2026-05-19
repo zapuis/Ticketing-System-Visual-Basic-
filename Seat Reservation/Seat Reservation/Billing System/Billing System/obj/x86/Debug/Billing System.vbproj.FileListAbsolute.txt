@@ -1,0 +1,163 @@
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\bin\Debug\Billing System.xml
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+F:\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.exe
+F:\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.pdb
+F:\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.xml
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+G:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+G:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+D:\Teresa Rafols\2019-2020 1st Sem\CPE22 (Object Oriented Programming)\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Billing System\Billing System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Billing System\Billing System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Billing System\Billing System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Billing System\Billing System\bin\Debug\Billing System.exe
+D:\Billing System\Billing System\bin\Debug\Billing System.pdb
+D:\Billing System\Billing System\bin\Debug\Billing System.xml
+D:\Billing System\Billing System\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+D:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+D:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+D:\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Billing System\Billing System\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Billing System\Billing System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+D:\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+D:\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\SPCBA\Desktop\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\SPCBA\Desktop\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\SPCBA\Desktop\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\SPCBA\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\Rafols\Desktop\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+D:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+D:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+D:\Visual Basic Studio\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\a\Desktop\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\a\Desktop\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\a\Desktop\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\a\Desktop\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+F:\VB Studio\Billing System\Billing System\bin\Debug\Billing System.exe
+F:\VB Studio\Billing System\Billing System\bin\Debug\Billing System.pdb
+F:\VB Studio\Billing System\Billing System\bin\Debug\Billing System.xml
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+F:\VB Studio\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+F:\VB Studio\Zapuis\New\Billing System\Billing System\bin\Debug\Billing System.exe
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+F:\VB Studio\Zapuis\New\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+F:\VB Studio\Zapuis\New\Billing System\Billing System\bin\Debug\Billing System.pdb
+F:\VB Studio\Zapuis\New\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\LENOVO\Desktop\New\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\bin\Debug\Billing System.exe
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\bin\Debug\Billing System.pdb
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\bin\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddProduct.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewProduct.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\LENOVO\Desktop\VB Project\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\Billing System.exe
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\Billing System.xml
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\Billing System.pdb
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.AddUser.resources
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Main.resources
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\WindowsApplication1.ViewUser.resources
+C:\Users\LENOVO\Desktop\VB\Zapuis\Billing System\Billing System\obj\x86\Debug\Billing System.vbproj.GenerateResource.Cache
